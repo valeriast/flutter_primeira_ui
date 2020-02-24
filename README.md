@@ -1,6 +1,7 @@
 # music_app
 
-A new Flutter application.
+Primeiro app escrito com Flutter. Projeto não é funcional, apenas se trata da criação da estrutura UI com base
+no layout a seguir postado no pinterest https://br.pinterest.com/pin/470555861068915354/
 
 ## Getting Started
 
